@@ -1,6 +1,6 @@
 {
   "name": "react-native-infinite-scrolling",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A react native package for infinite scrolling of list ",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,5 @@
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.58.0"
   },
-  "dependencies": {
-    "axios": "^0.19.2"
-  }
+  "dependencies": {}
 }

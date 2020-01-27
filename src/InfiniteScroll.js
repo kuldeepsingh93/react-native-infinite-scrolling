@@ -1,5 +1,4 @@
 import React from 'react'
-import axios from 'axios'
 import { FlatList } from 'react-native'
 
 const InfiniteScroll = (props) => {
